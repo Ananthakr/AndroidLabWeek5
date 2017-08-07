@@ -15,6 +15,8 @@ MainActivity:235
 Animation animation = AnimationUtils.loadAnimation(getApplicationContext(),R.anim.YOUR_ANIMATION_NAME);
 ```                    
 
+
+## Change project name
 If you want to change the app name, follow this thread
 https://stackoverflow.com/a/39092799/5424353
 
